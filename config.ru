@@ -1,4 +1,4 @@
-require 'Sinatra'
+require 'sinatra'
 
 require './config/environment'
 
